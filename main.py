@@ -2,7 +2,6 @@ import requests as rp
 import html
 import random as rd
 from category import categories_list
-import os
 from ending import *
 
 #----------------------------------------------------------GETTING QUESIONS------------------------------------------
